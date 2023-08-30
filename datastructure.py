@@ -45,3 +45,6 @@ print(list)
 list.clear()
 print(list)
 
+lst.insert(2,333)
+print(lst)
+
